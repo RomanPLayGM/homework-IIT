@@ -1,0 +1,14 @@
+#img1 {
+    position: relative;
+    width: 600px;
+    top: 20px;
+}
+#img2 {
+    position: relative;
+    width: 600px;
+    top: 20px;
+}
+#gl1 {
+    position: absolute;
+}
+
